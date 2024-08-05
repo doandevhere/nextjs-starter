@@ -1,7 +1,5 @@
 {
-  "name": "nextjs-practice",
-  "version": "0.1.0",
-  "private": true,
+  "name": "nextjs-starter",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
