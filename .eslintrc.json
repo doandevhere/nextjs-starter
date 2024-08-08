@@ -4,6 +4,7 @@
     "eslint:recommended",
     "plugin:react/recommended",
     "next",
+    "plugin:@next/next/recommended",
     "prettier"
   ],
   "plugins": ["react"],
