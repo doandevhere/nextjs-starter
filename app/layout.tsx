@@ -1,6 +1,6 @@
 import React from 'react';
 import { fonts } from './font';
-import './styles/global.css';
+import './styles/global.scss';
 
 type Props = {
   children: React.ReactNode;
