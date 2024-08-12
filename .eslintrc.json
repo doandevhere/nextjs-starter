@@ -5,7 +5,8 @@
     "plugin:react/recommended",
     "next",
     "plugin:@next/next/recommended",
-    "prettier"
+    "prettier",
+    "plugin:storybook/recommended"
   ],
   "plugins": ["react"],
   "parserOptions": {
