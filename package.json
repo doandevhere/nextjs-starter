@@ -7,7 +7,7 @@
     "lint": "next lint",
     "prepare": "husky",
     "commit": "cz",
-    "test": "jest --watch",
+    "test": "jest",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
