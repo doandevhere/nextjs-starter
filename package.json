@@ -27,7 +27,7 @@
     "@commitlint/cli": "^19.4.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@next/eslint-plugin-next": "^14.2.5",
-    "@storybook/addon-essentials": "^8.2.8",
+    "@storybook/addon-essentials": "^8.3.6",
     "@storybook/addon-interactions": "^8.2.8",
     "@storybook/addon-links": "^8.2.9",
     "@storybook/addon-onboarding": "^8.2.8",
